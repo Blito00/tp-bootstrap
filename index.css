@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,500;1,500&display=swap');
+
+body{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.navbar .navbar-expand-lg .bg-body-tertiary {
+    font-family: "Rubik", sans-serif;
+}
+
+.carousel-caption h5, .carousel-caption p {
+        font-size: 14px;
+    }
+
+.carousel-item {
+    background-color: rgb(204, 204, 204);
+}
+
+.carousel-item img {
+        border-radius: 10px;
+        box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+        margin-top: 10px;
+        margin-bottom: 10px;
+ }
+
+.container-fluid img {
+    width: 100px;
+}
